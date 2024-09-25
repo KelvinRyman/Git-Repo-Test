@@ -1,0 +1,24 @@
+# Bazel build output
+bazel-*
+
+# Compiled object files and libraries
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Editor and IDE files
+*.swp
+*~
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
