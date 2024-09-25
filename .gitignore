@@ -1,5 +1,6 @@
 # Bazel build output
 bazel-*
+MODULE.bazel.lock
 
 # Compiled object files and libraries
 *.o
